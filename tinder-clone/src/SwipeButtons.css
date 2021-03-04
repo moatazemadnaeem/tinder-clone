@@ -1,0 +1,28 @@
+.btns{
+    position: fixed;
+    display: flex;
+    bottom:1px;
+    width:100%;
+    justify-content:space-around;
+    
+}
+.replaybtn{
+    background-color:whitesmoke !important;
+ color:#f5b748 !important;
+}
+.clostbtn{
+    background-color:whitesmoke !important;
+color: #ec5e6f !important;
+}
+.favbtn{
+    background-color:whitesmoke !important;
+color: red !important;
+}
+.starbtn{
+    background-color:whitesmoke !important;
+    color: #62b4f9 !important;
+}
+.flashbtn{
+    background-color:whitesmoke !important;
+color: purple !important;
+}

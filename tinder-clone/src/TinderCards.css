@@ -1,0 +1,24 @@
+
+.card{
+    position: relative;
+    background-color: #fff;
+    width: 600px; 
+    padding: 20px;
+    max-width: 85vw;
+    height:470px;
+    border-radius: 20px;
+    border:1px solid gray;
+}
+.containerForCards{
+    display: flex;
+    margin-top: 20px;
+    justify-content: center;
+}
+.swipe{
+    position: absolute;
+}
+.cardcontent{
+    position: absolute;
+    color: grey;
+    margin:10px
+}
